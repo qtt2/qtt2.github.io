@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
