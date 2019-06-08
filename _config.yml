@@ -85,8 +85,8 @@ author:
   bio              : "PhD Student at Cornell University"
   location         : "Ithaca, New York 14853"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=MLsykCIAAAAJ&hl=en"
   email            : "qtt2@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
