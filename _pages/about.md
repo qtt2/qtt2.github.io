@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-TBD
-
+I am a second-year PhD student in Electrical and Computer Engineering working
+under [Professor Christopher Batten](http://www.csl.cornell.edu/~cbatten/) at
+Cornell University.
