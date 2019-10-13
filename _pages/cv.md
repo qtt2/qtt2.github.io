@@ -7,25 +7,4 @@ redirect_from:
   - /resume
 ---
 
-TBD
 
-Education
-======
-
-Work experience
-======
-
-Skills
-======
-
-Publications
-======
-
-Talks
-======
-
-Teaching
-======
-
-Service and leadership
-======

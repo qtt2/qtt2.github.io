@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tuan Ta"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Electrical and Computer Engineering working
-under [Professor Christopher Batten](http://www.csl.cornell.edu/~cbatten/) at
-Cornell University.
+## Biography
+
+I am a third-year PhD student advised by [Professor Christopher
+Batten](http://www.csl.cornell.edu/~cbatten/) in Electrical and Computer
+Engineering working at Cornell University. I am part of the [Computer Systems
+Lab (CSL)](http://www.csl.cornell.edu) at Cornell.
+
+Here is my [CV](files/tuan-ta-full-cv.pdf).
+
+## Publications
