@@ -23,7 +23,7 @@ task-parallel applications.
 
 Prior to joining Cornell, I received my Bachelors in Computer Science from
 University of Mississippi in 2016. I worked as a research co-op at AMD Research
-on modeling AMD's next-generate GPU's cache system in gem5 simulator in 2017.
+on modeling AMD's next-generation GPU's cache system in gem5 simulator in 2017.
 
 Here is my [CV](files/tuan-ta-full-cv.pdf).
 
