@@ -65,6 +65,11 @@ Here is my [CV](files/tuan-ta-full-cv.pdf).
   DynEarthSol3D on Tightly Coupled CPU-GPU Heterogeneous Processors**. In
   Computers & Geosciences Journal (2015). ([Link](https://www.sciencedirect.com/science/article/pii/S0098300415000527))
 
+## Contributions to Open-Source Projects
+
+- [List](https://gem5-review.googlesource.com/q/owner:qtt2%2540cornell.edu) of
+  patches contributed to gem5 repository
+
 ## Blog Posts
 
 TBA (comming soon)
