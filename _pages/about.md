@@ -30,39 +30,39 @@ Here is my [CV](files/tuan-ta-full-cv.pdf).
 ## Publications
 
 - *Tuan Ta*, Xianwei Zhang, Anthony Gutierrez, and Bradford M. Beckmann.
-  *Autonomous Data-Race-Free GPU Testing*. To be presented in IEEE
+  **Autonomous Data-Race-Free GPU Testing**. To be presented in IEEE
   International Symposium on Workload Characterization (IISWC 2019).
 
-- David Troendle, *Tuan Ta*, and Byunghyun Jang. *A Specialized Concurrent
-  Queue for Scheduling Irregular Workloads on GPUs*. In the 48th International
+- David Troendle, *Tuan Ta*, and Byunghyun Jang. **A Specialized Concurrent
+  Queue for Scheduling Irregular Workloads on GPUs**. In the 48th International
   Conference on Parallel Processing (ICPP 2019).
 
 - Christopher Torng, Shunning Jiang, Khalid Al-Hawaj, Ivan Bukreyev, Berkin
   Ilbeyi, *Tuan Ta*, Lin Cheng, Julian Puscar, Ian Galton, and Christopher
-  Batten. *A New Era of Silicon Prototyping in Computer Architecture Research*.
+  Batten. **A New Era of Silicon Prototyping in Computer Architecture Research**.
   RISC-V Day Workshop held in conjunction with MICRO-51, Oct. 2018.
 
-- *Tuan Ta*, Lin Cheng, and Christopher Batten. *Simulating Multi-Core RISC-V
-  Systems in gem5*. In the 2nd Workshop on Computer Architecture Research with
+- *Tuan Ta*, Lin Cheng, and Christopher Batten. **Simulating Multi-Core RISC-V
+  Systems in gem5**. In the 2nd Workshop on Computer Architecture Research with
   RISC-V (CARRV 2018)
 
 - Elliott Samuel, Raghu Raj Prasanna Kumar, Natasha Flyer, *Tuan Ta*, and
-  Richard Loft. *Implementation of a Scalable, Performance Portable Shallow
+  Richard Loft. **Implementation of a Scalable, Performance Portable Shallow
   Water Equation Solver Using Radial Basis Function-Generated Finite Difference
-  Methods*. In the International Journal of High Performance Computing
+  Methods**. In the International Journal of High Performance Computing
   Applications (IJHPCA 2018).
 
-- *Tuan Ta*, David Troendle, Xiaoqi Hu, Byunghyun Jang. *Understanding the
+- *Tuan Ta*, David Troendle, Xiaoqi Hu, Byunghyun Jang. **Understanding the
   Impact of Fine-Grained Data Sharing and Thread Communication on Heterogeneous
-  Workload Development*. In the 16th IEEE International Symposium on Parallel &
+  Workload Development**. In the 16th IEEE International Symposium on Parallel &
   Distributed Computing (ISPDC 2017).
 
-- *Tuan Ta*, David Troendle, and Byunghyun Jang. *Thread Communication and
-  Synchronization on Massively Parallel GPUs*. A book chapter in _Advances in
+- *Tuan Ta*, David Troendle, and Byunghyun Jang. **Thread Communication and
+  Synchronization on Massively Parallel GPUs**. A book chapter in _Advances in
   GPU Research and Practice_ edited by Hamid Sarbazi-Azad.
 
-- *Tuan Ta*, Kyoshin Choo, Eh Tan, Byunghyun Jang, Eunseo Choi. *Accelerating
-  DynEarthSol3D on Tightly Coupled CPU-GPU Heterogeneous Processors*. In
+- *Tuan Ta*, Kyoshin Choo, Eh Tan, Byunghyun Jang, Eunseo Choi. **Accelerating
+  DynEarthSol3D on Tightly Coupled CPU-GPU Heterogeneous Processors**. In
   Computers & Geosciences Journal (2015).
 
 ## Blog Posts
