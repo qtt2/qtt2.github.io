@@ -34,7 +34,23 @@ I am currently looking for an industry research position starting in Summer
 
 Here is my [CV](files/tuan-ta-full-cv.pdf) (Updated on 10/01/2022).
 
-## Publications
+## Selected Publications
+
+- *Tuan Ta*, Khalid Al-Hawaj, Nick Cebry, Yanghui Ou, Eric Hall, Courtney
+  Golden, and Christopher Batten. **big.VLITTLE: On-Demand Data-Parallel
+  Acceleration for Mobile Systems on Chip.** International Symposium on
+  Microarchitecture (MICRO), 2022.
+
+- Lingjun Zhu, *Tuan Ta*, Rossana Liu, Rahul Mathur, Xiaoqing Xu, Shidhartha
+  Das, Ankit Kaul, Alejandro Rico, Doug Joseph, Brian Cline, Sung Kyu Lim.
+  **Power Delivery and Thermal-Aware Arm-Based Multi-Tier 3D Architecture.**
+  IEEE/ACM International Symposium on Low Power Electronics and Design, July
+  2021.
+
+- Moyang Wang, *Tuan Ta*, Lin Cheng, and Christopher Batten. **Efficiently
+  Supporting Dynamic Task Parallelism on Heterogeneous Cache-Coherent Systems.**
+  47th ACM/IEEE International Symposium on Computer Architecture (ISCA), June
+  2020.
 
 - *Tuan Ta*, Xianwei Zhang, Anthony Gutierrez, and Bradford M. Beckmann.
   **Autonomous Data-Race-Free GPU Testing**. To be presented in IEEE
