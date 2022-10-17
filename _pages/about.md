@@ -15,19 +15,19 @@ Batten](http://www.csl.cornell.edu/~cbatten/) in Electrical and Computer
 Engineering at Cornell University. I am part of the [Computer Systems Lab
 (CSL)](http://www.csl.cornell.edu) at Cornell.
 
-My PhD research is mainly focused on efficient parallel framework for
-heterogeneous multi-/many-core systems and area-/power-efficient support for
-next-generation vector architectures in mobile systems in chip.
-Aside from that, I led a small group of postdoc, PhD students, and
-undergraduates at Cornell University in a heterogeneous many-cor/FPGA tapeout
-project in collaboration with a team from Princeton University.
+My PhD research is focused on efficient parallel framework for heterogeneous
+multi-/many-core systems and area-/power-efficient support for next-generation
+vector architectures in mobile systems in chip.  Aside from that, I led a small
+group of postdoc, PhD students, and undergraduates at Cornell University in a
+heterogeneous many-cor/FPGA tapeout project in collaboration with a research
+team from Princeton University.
 
 Prior to joining Cornell, I received my Bachelors in Computer Science from
 University of Mississippi in 2016. I worked as a research co-op at AMD Research
 on modeling AMD's next-generation GPU's cache system and developing a cache
-coherence testing framework in gem5 simulator in 2017. During my PhD, I did two
-research internships with Arm Research to explore wafer-scale many-core
-architecture and Arm's Scalable Matrix Extension (SME).
+coherence testing framework in gem5 simulator in 2017. During my PhD, I
+interned at Arm Research to explore wafer-scale many-core architecture and
+Arm's Scalable Matrix Extension (SME).
 
 I am currently looking for an industry research position starting in Summer
 2023.
