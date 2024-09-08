@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tuan Ta"
 title_separator          : "-"
 name                     : &name "Tuan Ta"
-description              : &description "PhD Student at Cornell University"
+description              : &description "CPU Architect at Tenstorrent"
 url                      : https://qtt2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qtt2.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tuan Ta"
   avatar           : "profile.png"
-  bio              : "PhD Student at Cornell University"
-  location         : "Ithaca, New York 14853"
-  employer         :
+  bio              : "CPU Architect"
+  location         : "Austin, TX"
+  employer         : "Tenstorrent"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=MLsykCIAAAAJ&hl=en"
-  email            : "qtt2@cornell.edu"
+  email            : "tuanqta92@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

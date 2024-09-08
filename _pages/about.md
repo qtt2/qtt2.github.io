@@ -10,17 +10,13 @@ redirect_from:
 
 ## Biography
 
-I am a final-year PhD student advised by [Professor Christopher
-Batten](http://www.csl.cornell.edu/~cbatten/) in Electrical and Computer
-Engineering at Cornell University. I am part of the [Computer Systems Lab
-(CSL)](http://www.csl.cornell.edu) at Cornell.
-
-My PhD research is focused on efficient parallel framework for heterogeneous
-multi-/many-core systems and area-/power-efficient support for next-generation
-vector architectures in mobile systems in chip.  Aside from that, I led a small
-group of postdoc, PhD students, and undergraduates at Cornell University in a
-heterogeneous many-cor/FPGA tapeout project in collaboration with a research
-team from Princeton University.
+I am a CPU architect working on high-performance RISC-V processors at
+[Tenstorrent](https://tenstorrent.com/). I received my Ph.D. degree in
+Electrical and Computer Engineering from Cornell University, advised by [Prof.
+Christopher Batten](http://www.csl.cornell.edu/~cbatten/). My Ph.D. research
+focused on efficient parallel framework for heterogeneous multi-/many-core
+systems, area-/power-efficient support for next-generation vector
+architectures, and sparse matrix computation on matrix architectures.
 
 Prior to joining Cornell, I received my Bachelors in Computer Science from
 University of Mississippi in 2016. I worked as a research co-op at AMD Research
@@ -29,12 +25,25 @@ coherence testing framework in gem5 simulator in 2017. During my PhD, I
 interned at Arm Research to explore wafer-scale many-core architecture and
 Arm's Scalable Matrix Extension (SME).
 
-I am currently looking for an industry research position starting in Summer
-2023.
+Here is my [CV](files/tuan-ta-full-cv.pdf) (Updated on 09/08/2024).
 
-Here is my [CV](files/tuan-ta-full-cv.pdf) (Updated on 10/01/2022).
+## Patent
+
+- Joshua Randall, Jesse Garrett Beu, Krishnendra Nathella, *Tuan Quang Ta*.
+  **Vectorized Operations for Sparse Kernels**, [US 20230367843A1](https://patents.google.com/patent/US20230367843A1/en), Nov. 2023.
 
 ## Selected Publications
+
+- Ting-Jung Chang, Ang Li, Fei Gao, *Tuan Ta*, Georgios Tziantzioulis, Yanghui Ou, Moyang Wang,
+  Jinzheng Tu, Kaifeng Xu, Paul Jackson, August Ning, Grigory Chirkov, Marcelo Orenes-Vera, Shady
+  Agwa, Xiaoyu Yan, Eric Tang, Jonathan Balkind, Christopher Batten, and David Wentzlaff. **CIFER:
+  An Open-Source, 12nm, 16mm2 SoC with Four 64-bit OS-Capable RISC-V Processors, 18 32-bit
+  RISC-V Tiny Cores, and Coherently-Integrated eFPGA.** IEEE Custom Integrated Circuits Conference (CICC), Apr. 2023.
+
+- Khalid Al-Hawaj, *Tuan Ta*, Nick Cebry, Shady Agwa, Olalekan Afuye, Eric Hall,
+  Courtney Golden, Alyssa Apsel, Christopher Batten. **EVE: Ephemeral Vector
+  Engines** IEEE International Symposium on High-Performance Computer
+  Architecture (HPCA), 2023.
 
 - *Tuan Ta*, Khalid Al-Hawaj, Nick Cebry, Yanghui Ou, Eric Hall, Courtney
   Golden, and Christopher Batten. **big.VLITTLE: On-Demand Data-Parallel
@@ -53,8 +62,8 @@ Here is my [CV](files/tuan-ta-full-cv.pdf) (Updated on 10/01/2022).
   2020.
 
 - *Tuan Ta*, Xianwei Zhang, Anthony Gutierrez, and Bradford M. Beckmann.
-  **Autonomous Data-Race-Free GPU Testing**. To be presented in IEEE
-  International Symposium on Workload Characterization (IISWC 2019).
+  **Autonomous Data-Race-Free GPU Testing**. IEEE International Symposium on
+  Workload Characterization (IISWC 2019).
 
 - David Troendle, *Tuan Ta*, and Byunghyun Jang. **A Specialized Concurrent
   Queue for Scheduling Irregular Workloads on GPUs**. In the 48th International
