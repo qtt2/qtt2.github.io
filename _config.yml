@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tuan Ta"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "CPU Architect"
   location         : "Austin, TX"
   employer         : "Tenstorrent"
